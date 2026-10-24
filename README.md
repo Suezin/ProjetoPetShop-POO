@@ -11,9 +11,9 @@ Este projeto é focado em uma interface de um sistema de uma PetShop, que aprese
 
 Este projeto tem as seguintes tecnologias :
 
-*java
-*JavaSwing
-*MySql
+- java
+- JavaSwing
+- MySql
 
 ## Como Usar 
 
